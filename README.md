@@ -1,5 +1,10 @@
 # OPENCORE EFI for AMD Ryzen / MSI b550m bazooka / RX580
 
+![Screenshot](/screenshot.png?raw=true)
+
+**macOS version**: 11.6.7 (20G630) \
+**OpenCore version**: 0.8.1
+
 ## Hardware Config
 
 | **Component**    | **Model**                                  |
@@ -10,9 +15,6 @@
 | GPU              | Asus RX580 8GB                             |
 | Audio Chipset    | Realtek ALC892/ALC897                      |
 | Ethernet         | Realtek RTL8111                            |
-
-**macOS version**: 11.6.7 (20G630) \
-**OpenCore version**: 0.8.1
 
 ## Bios Settings
 
