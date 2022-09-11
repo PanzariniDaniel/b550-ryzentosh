@@ -23,7 +23,7 @@
 |     **Fast Boot**     | Disable     |
 |    **Secure Boot**    | Disable     |
 |        **CSM**        | Disable     |
-| **Above 4G Decoding** | Disable.    |
+| **Above 4G Decoding** | Enable      |
 
 # Attention
 
